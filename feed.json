@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ritabratamaiti",
+    "description": "",
+    "home_page_url": "https://ritabratamaiti.github.io/ritabratamaiti",
+    "feed_url": "https://ritabratamaiti.github.io/ritabratamaiti/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ritabrata Maiti"
+    },
+    "items": [
+        {
+            "id": "https://ritabratamaiti.github.io/ritabratamaiti/ritabrata-maiti.html",
+            "url": "https://ritabratamaiti.github.io/ritabratamaiti/ritabrata-maiti.html",
+            "title": "Ritabrata Maiti",
+            "summary": "Hi! I am currently a computer-engineering undergraduate student at Delhi Technological University. This is my academic website :) A list of projects I have worked on:AIDDTAt AIDDT I am building artificial intelligence software to help design drugs. Recently, I have used AIDDT to help generate&hellip;",
+            "content_html": "<h5>Hi! I am currently a computer-engineering undergraduate student at Delhi Technological University. This is my academic website :)</h5>\n<p> </p>\n<p class=\"align-center\"><span style=\"text-decoration: underline;\"><strong>A list of projects I have worked on:</strong></span></p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 15.4179%;\">AIDDT</td>\n<td style=\"width: 84.5821%;\">At AIDDT I am building artificial intelligence software to help design drugs. Recently, I have used AIDDT to help generate over 19000 drug candidates which are potentially effective against the COVID-19. I have submitted a few of the most potent (predicted)</td>\n</tr>\n<tr>\n<td style=\"width: 15.4179%;\"> </td>\n<td style=\"width: 84.5821%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 15.4179%;\"> </td>\n<td style=\"width: 84.5821%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 15.4179%;\"> </td>\n<td style=\"width: 84.5821%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 15.4179%;\"> </td>\n<td style=\"width: 84.5821%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 15.4179%;\"> </td>\n<td style=\"width: 84.5821%;\"> </td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Ritabrata Maiti"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-13T23:17:25+08:00",
+            "date_modified": "2020-11-13T23:26:10+08:00"
+        }
+    ]
+}
