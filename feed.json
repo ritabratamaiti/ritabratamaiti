@@ -9,5 +9,17 @@
         "name": "Ritabrata Maiti"
     },
     "items": [
+        {
+            "id": "https://ritabratamaiti.github.io/ritabratamaiti/ritabrata-maiti.html",
+            "url": "https://ritabratamaiti.github.io/ritabratamaiti/ritabrata-maiti.html",
+            "title": "Ritabrata Maiti 🧠🕸️🤖",
+            "author": {
+                "name": "Ritabrata Maiti"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-29T13:23:42+08:00",
+            "date_modified": "2022-09-29T13:23:42+08:00"
+        }
     ]
 }
